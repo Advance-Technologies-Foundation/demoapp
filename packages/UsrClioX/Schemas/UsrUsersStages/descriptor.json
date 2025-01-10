@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "c7a9e869-5c81-4b93-bd9f-d803992b5c9b",
+    "Name": "UsrUsersStages",
+    "ModifiedOnUtc": "\/Date(1736470115000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Users Stages",
+    "DependsOn": []
+  }
+}

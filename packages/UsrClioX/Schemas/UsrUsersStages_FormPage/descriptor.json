@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "f8550c03-3063-47a1-89db-3187956411d9",
+    "Name": "UsrUsersStages_FormPage",
+    "ModifiedOnUtc": "\/Date(1736470168000)\/",
+    "Parent": {
+      "UId": "ecdcc8ff-272c-4957-9381-7d74ce17e140",
+      "Name": "BaseMiniPageTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Users Stages Form Page",
+    "DependsOn": []
+  }
+}

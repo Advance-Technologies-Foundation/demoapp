@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "05cecf01-6a12-462b-97e4-a290441b39cc",
+    "Name": "UsrUserSessionsRelatedPage",
+    "ModifiedOnUtc": "\/Date(1736470155000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "User sessions (Page settings)",
+    "DependsOn": []
+  }
+}

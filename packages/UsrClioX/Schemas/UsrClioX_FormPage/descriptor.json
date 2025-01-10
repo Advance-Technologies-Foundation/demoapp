@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "2dd0e770-8b1d-40d7-8758-87549e13fe2a",
+    "Name": "UsrClioX_FormPage",
+    "ModifiedOnUtc": "\/Date(1736470150000)\/",
+    "Parent": {
+      "UId": "3b2e117f-8c6b-4ca5-80a2-7ebb497cddf9",
+      "Name": "PageWithTabsFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Users form page",
+    "DependsOn": []
+  }
+}

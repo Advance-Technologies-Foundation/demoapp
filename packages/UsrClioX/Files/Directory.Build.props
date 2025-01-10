@@ -1,0 +1,9 @@
+<Project>
+	<ItemGroup Label="Entity Files" Condition="'$(PkgPath)' != ''">
+		<Compile Include="$(PkgPath)/UsrClioX/Schemas/Activity/Activity.cs" Condition="Exists('$(PkgPath)/UsrClioX/Schemas/Activity/Activity.cs')" />
+		<Compile Include="$(PkgPath)/UsrClioX/Schemas/UsrUserActions/UsrUserActions.cs" Condition="Exists('$(PkgPath)/UsrClioX/Schemas/UsrUserActions/UsrUserActions.cs')" />
+		<Compile Include="$(PkgPath)/UsrClioX/Schemas/UsrUsers/UsrUsers.cs" Condition="Exists('$(PkgPath)/UsrClioX/Schemas/UsrUsers/UsrUsers.cs')" />
+		<Compile Include="$(PkgPath)/UsrClioX/Schemas/UsrUserSessions/UsrUserSessions.cs" Condition="Exists('$(PkgPath)/UsrClioX/Schemas/UsrUserSessions/UsrUserSessions.cs')" />
+		<Compile Include="$(PkgPath)/UsrClioX/Schemas/UsrUsersStages/UsrUsersStages.cs" Condition="Exists('$(PkgPath)/UsrClioX/Schemas/UsrUsersStages/UsrUsersStages.cs')" />
+	</ItemGroup>
+</Project>

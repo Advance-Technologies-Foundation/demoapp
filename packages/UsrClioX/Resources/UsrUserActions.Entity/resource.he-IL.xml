@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="User actions" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1_75b3d6a105774164b6b663da4a52b6eb.Caption" Value="Pool 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1_75b3d6a105774164b6b663da4a52b6eb.Lanes.Lane1_4887be4b062c40b5a6f268d63bed19f6.Caption" Value="Lane 1" />
+		</Items>
+	</Group>
+</Resources>

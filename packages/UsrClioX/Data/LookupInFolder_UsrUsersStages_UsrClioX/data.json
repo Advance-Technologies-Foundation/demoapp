@@ -1,0 +1,22 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "f7e771ac-676a-495a-bfbb-4fc2b3f69f63"
+        },
+        {
+          "SchemaColumnUId": "34391227-ac90-4b55-9739-6720e97a0594",
+          "Value": "978b0f0f-87cd-4067-a358-e8b1e784aa4d",
+          "DisplayValue": "Users Stages"
+        },
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "1a92125f-37ad-4f36-acf3-481be05a5eeb",
+          "DisplayValue": "clioX"
+        }
+      ]
+    }
+  ]
+}

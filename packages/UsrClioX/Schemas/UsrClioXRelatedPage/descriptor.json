@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "fbb1d7a7-279e-473e-a57e-bb7d791d965c",
+    "Name": "UsrClioXRelatedPage",
+    "ModifiedOnUtc": "\/Date(1736470112000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Users (Page settings)",
+    "DependsOn": []
+  }
+}

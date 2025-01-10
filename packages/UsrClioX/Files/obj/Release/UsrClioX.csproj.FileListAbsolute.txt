@@ -1,0 +1,9 @@
+D:\App\102595-studio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrClioX\Files\Bin\UsrClioX.dll
+D:\App\102595-studio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrClioX\Files\Bin\UsrClioX.pdb
+D:\App\102595-studio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrClioX\Files\obj\Release\UsrClioX.csproj.AssemblyReference.cache
+D:\App\102595-studio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrClioX\Files\obj\Release\UsrClioX.GeneratedMSBuildEditorConfig.editorconfig
+D:\App\102595-studio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrClioX\Files\obj\Release\UsrClioX.AssemblyInfoInputs.cache
+D:\App\102595-studio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrClioX\Files\obj\Release\UsrClioX.AssemblyInfo.cs
+D:\App\102595-studio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrClioX\Files\obj\Release\UsrClioX.csproj.CoreCompileInputs.cache
+D:\App\102595-studio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrClioX\Files\obj\Release\UsrClioX.dll
+D:\App\102595-studio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrClioX\Files\obj\Release\UsrClioX.pdb

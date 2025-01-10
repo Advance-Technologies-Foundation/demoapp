@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Users Case" />
+			<Item Name="Stages.Stage1.Caption" Value="Data collection" />
+			<Item Name="Stages.Stage2.Caption" Value="Data processing" />
+			<Item Name="Stages.Stage3.Caption" Value="Activity monitoring" />
+			<Item Name="Stages.Stage4.Caption" Value="Report generation" />
+			<Item Name="Stages.Stage5.Caption" Value="User feedback" />
+		</Items>
+	</Group>
+</Resources>

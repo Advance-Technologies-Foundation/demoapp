@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "58dea410-87dc-4546-b574-fa9e8fb18585",
+    "Name": "UsrUserActions",
+    "ModifiedOnUtc": "\/Date(1736470118000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "User actions",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,18 @@
+﻿{
+  "Descriptor": {
+    "UId": "b14b11ce-2fe8-4163-9be3-92fc526d3450",
+    "Name": "UsrClioX",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1632313759000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/UsrClioX.csproj",
+    "DependsOn": [
+      {
+        "UId": "012e2e14-082b-ac2b-da5a-2fc87bad41d4",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCore",
+        "Type": 1
+      }
+    ]
+  }
+}

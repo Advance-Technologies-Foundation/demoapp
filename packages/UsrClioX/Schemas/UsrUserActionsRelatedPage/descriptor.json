@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "623098b6-bda0-4a49-bd4c-f0a6d953a8b4",
+    "Name": "UsrUserActionsRelatedPage",
+    "ModifiedOnUtc": "\/Date(1736470161000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "User actions (Page settings)",
+    "DependsOn": []
+  }
+}

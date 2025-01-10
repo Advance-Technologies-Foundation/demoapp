@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "e6ba9b47-f6f8-4964-a3c8-4c4f15bfaa17",
+    "Name": "UsrClioX_ListPage",
+    "ModifiedOnUtc": "\/Date(1736470143000)\/",
+    "Parent": {
+      "UId": "3334b6c0-c8ab-4b59-a367-0c9182102552",
+      "Name": "ListPageV2Template"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Users list page",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "602d6b04-a6d6-4ab1-9646-b9e0c63685b9",
+    "Name": "UsrUsersStagesRelatedPage",
+    "ModifiedOnUtc": "\/Date(1736470168000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Users Stages (Page settings)",
+    "DependsOn": []
+  }
+}

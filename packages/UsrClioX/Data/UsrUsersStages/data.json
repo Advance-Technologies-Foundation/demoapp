@@ -1,0 +1,64 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "127d7ab4-b070-424b-a1a4-41d523b49e71"
+        },
+        {
+          "SchemaColumnUId": "4d3e6f2b-97e3-41be-9b81-980053b2d18c",
+          "Value": "Data processing"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "399a13e8-70ba-4bee-8f59-98952f34f275"
+        },
+        {
+          "SchemaColumnUId": "4d3e6f2b-97e3-41be-9b81-980053b2d18c",
+          "Value": "Report generation"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "6f230253-bffb-447d-96eb-e4826fdc78e1"
+        },
+        {
+          "SchemaColumnUId": "4d3e6f2b-97e3-41be-9b81-980053b2d18c",
+          "Value": "Activity monitoring"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "80d15b07-8fd3-428b-a88f-1f25ea12a035"
+        },
+        {
+          "SchemaColumnUId": "4d3e6f2b-97e3-41be-9b81-980053b2d18c",
+          "Value": "User feedback"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "9149f80f-26a1-4ce1-90cf-1508eb74f041"
+        },
+        {
+          "SchemaColumnUId": "4d3e6f2b-97e3-41be-9b81-980053b2d18c",
+          "Value": "Data collection"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Users" />
+			<Item Name="Columns.UsrCreatedAt.Caption" Value="Created at" />
+			<Item Name="Columns.UsrDcmStage.Caption" Value="Stage" />
+			<Item Name="Columns.UsrEmail.Caption" Value="Email" />
+			<Item Name="Columns.UsrUpdatedAt.Caption" Value="Updated at" />
+			<Item Name="Columns.UsrUsername.Caption" Value="Username" />
+		</Items>
+	</Group>
+</Resources>

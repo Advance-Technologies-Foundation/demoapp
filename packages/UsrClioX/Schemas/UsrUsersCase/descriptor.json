@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "76eb54a3-a85a-49df-8be0-715dd55f89cf",
+    "Name": "UsrUsersCase",
+    "ModifiedOnUtc": "\/Date(1736470127000)\/",
+    "ManagerName": "DcmSchemaManager",
+    "Caption": "Users Case",
+    "DependsOn": []
+  }
+}

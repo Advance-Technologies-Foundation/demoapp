@@ -1,0 +1,53 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\App\\102595-studio\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\UsrClioX\\Files\\UsrClioX.csproj": {}
+  },
+  "projects": {
+    "D:\\App\\102595-studio\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\UsrClioX\\Files\\UsrClioX.csproj": {
+      "version": "8.2.0.4183",
+      "restore": {
+        "projectUniqueName": "D:\\App\\102595-studio\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\UsrClioX\\Files\\UsrClioX.csproj",
+        "projectName": "UsrClioX",
+        "projectPath": "D:\\App\\102595-studio\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\UsrClioX\\Files\\UsrClioX.csproj",
+        "packagesPath": "C:\\Windows\\TEMP\\112\\MS_iis-992a821407e74d99\\Default\\dotnet\\.nuget\\packages\\",
+        "outputPath": "D:\\App\\102595-studio\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\UsrClioX\\Files\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Windows\\TEMP\\112\\MS_iis-992a821407e74d99\\Default\\dotnet\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="it-IT">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Users Stages" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1_9dac81b7c55d4378b73c8dbab62c6b80.Caption" Value="Gruppo 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1_9dac81b7c55d4378b73c8dbab62c6b80.Lanes.Lane1_e858532ce30c45eba967c96f637457ee.Caption" Value="Linea 1" />
+		</Items>
+	</Group>
+</Resources>

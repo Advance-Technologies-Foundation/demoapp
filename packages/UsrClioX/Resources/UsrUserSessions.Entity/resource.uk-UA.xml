@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="User sessions" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1_7a66d08e1f284c3e822899832e0efa1a.Caption" Value="Пул 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1_7a66d08e1f284c3e822899832e0efa1a.Lanes.Lane1_6639401ec3014f5f8eb42ae97a545aef.Caption" Value="Доріжка 1" />
+		</Items>
+	</Group>
+</Resources>
